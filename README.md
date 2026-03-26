@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm Saumy Gupta! 👋
+About Me
+🎓 B.Tech in Computer Science and Engineering
+🏫 VIT Bhopal University
+📅 First Year | Second Semester
+📍 Bhopal, Madhya Pradesh
+What I Hope to Learn
+I hope to learn how to build intelligent systems and software development using Machine Learning and AI that can solve real-world problems.
 
-<!--
-**saumygupta01/saumygupta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect With Me
+LinkedIn: www.linkedin.com/in/saumy-gupta-a58a823a2
+GitHub: https://github.com/saumygupta01
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
